@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CustomSetting</string>
+    <string name="login_only_can_input">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890</string>
+    <string name="login_only_can_number">1234567890</string>
+    <string name="inke_gift_range">映币贡献榜</string>
+    <string name="small_video">小视频</string>
+    <string name="mine_history">观看记录</string>
+    <string name="mine_income_number">10000 映币</string>
+    <string name="mine_income">收益</string>
+    <string name="mine_account">账户</string>
+    <string name="mine_account_num">100000砖石</string>
+    <string name="mine_level">等级</string>
+    <string name="mine_level_num">100 级</string>
+    <string name="mine_mygif_package">礼包</string>
+    <string name="mine_mygif_package_content">查看礼包</string>
+    <string name="mine_auth">实名认证</string>
+    <string name="mine_auth_verify">已认证</string>
+    <string name="mine_invite">邀请好友</string>
+    <string name="mine_invite_content">赢取映币</string>
+    <string name="mine_vote">节目投票</string>
+    <string name="mine_wolf">狼人杀</string>
+    <string name="mine_task">任务中心</string>
+    <string name="mine_setting">设置</string>
+</resources>
